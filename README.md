@@ -5,6 +5,8 @@
 **We have used Laravel Framework to fetch the data from MySql Database.**
 In this projct we have created a database with raw datas and with the help of Laravel we fetch those datas in a proper manner.
 
+Raw Data of movies is provided for the reference with the name of movie.sql
+
                                                ** Screenshot of project**
 
 ![image](https://user-images.githubusercontent.com/66880818/131993503-1f61a429-aaa6-4348-99bd-2e2aac183092.png)
